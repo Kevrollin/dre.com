@@ -18,7 +18,7 @@ free plan.
 
 ## 1. Install dependencies
 
-```bash
+```bash 
 npm install
 ```
 
