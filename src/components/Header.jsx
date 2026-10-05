@@ -25,7 +25,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-2">
           <span className="flex h-9 w-9 items-center justify-center rounded-full border border-de-text font-display text-sm font-semibold">
-            DE
+            DRE
           </span>
           <span className="hidden font-display text-sm font-semibold uppercase tracking-[0.2em] sm:inline">
             Dab Rollin Empire

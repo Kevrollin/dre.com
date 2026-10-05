@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <div className="mb-3 flex items-center gap-2">
             <span className="flex h-8 w-8 items-center justify-center rounded-full border border-de-text font-display text-xs font-semibold">
-              DE
+              DRE
             </span>
             <span className="font-display text-xs font-semibold uppercase tracking-[0.2em]">
               Dab Rollin Empire

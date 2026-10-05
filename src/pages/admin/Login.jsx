@@ -32,7 +32,7 @@ export default function Login() {
         className="w-full max-w-sm border border-de-border p-8"
       >
         <p className="mb-6 text-center font-display text-sm uppercase tracking-[0.2em]">
-          DE Admin
+          DRE Admin
         </p>
         <div className="space-y-4">
           <input

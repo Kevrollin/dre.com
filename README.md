@@ -1,6 +1,6 @@
 # Dab Rollin Empire — Official Store
 
-Official merchandise store for Dab Rollin Empire (DE), the artist brand of
+Official merchandise store for Dab Rollin Empire (DRE), the artist brand of
 Rockie Dabro (Peter Kirugi). React + Vite + Tailwind CSS on the frontend,
 Supabase (Postgres, Auth, Storage) on the backend, deployable to Vercel's
 free plan.

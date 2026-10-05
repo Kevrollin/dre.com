@@ -295,7 +295,7 @@ set search_path = public
 as $$
 declare
   v_order_id uuid := gen_random_uuid();
-  v_order_number text := 'DE-' || upper(to_hex(floor(extract(epoch from now()) * 1000)::bigint))
+  v_order_number text := 'DRE-' || upper(to_hex(floor(extract(epoch from now()) * 1000)::bigint))
                           || substr(md5(random()::text), 1, 4);
   v_subtotal numeric := 0;
   v_item jsonb;
